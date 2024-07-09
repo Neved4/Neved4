@@ -1,4 +1,4 @@
-[![Github](https://github-production-user-asset-6210df.s3.amazonaws.com/63655535/270734943-0461a785-766f-4c70-b06a-272d374e1751.png)][involves]
+[![Logo](https://github.com/Neved4/Neved4/assets/63655535/30eb2ad5-970f-46ae-83de-d90b7ba86272)][involves]
 
 <table width="100%">
   <tr>
@@ -43,7 +43,7 @@
 
 <!-- ![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge) -->
 
-## 🖊️ 📖
+## 📖 About me
 
 ⠿ 🪬 Hi, call me _**Neveda°**_  
 ⠿ ⚡️ **Interested in**: _documentation, standards and safe programming_  
@@ -55,11 +55,18 @@
 
 ###### ⠿ 📟 **Formerly**: [@mnrvwl](https://github.com/onmv) [2020-2023] [@omnv]() [2023]
 
-## 📈 📊
+<details>
+  <summary><h2>📍 Projects</h2></summary>
+
+
+</details>
+
+<details open>
+  <summary><h2>📊 Stats</h2></summary>
 
 [![Metrics](github-metrics.svg)][involves]
 
-[involves]: https://github.com/search?q=involves%3ANeved4&type=issues
+</details>
 
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/Neveda.png" alt="TryHackMe">
 <script src="https://tryhackme.com/badge/2110645"></script> -->
@@ -68,25 +75,4 @@
 ![](https://komarev.com/ghpvc/?username=Neved4)
 -->
 
-<details>
-  <summary><h2>📍 🪬</h2></summary>
-
-### ⌨️ 🌎
-
-[![](https://github-readme-stats.vercel.app/api?username=Neved4\&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/Neved4#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api?username=Neved4\&rank_icon=github&theme=light#gh-light-mode-only)](https://github.com/Neved4#gh-light-mode-only)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neved4&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/Neved4#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neved4&layout=donut&theme=light#gh-light-mode-only)](https://github.com/Neved4#gh-light-mode-only)
-
-### 📑 📌 Extra Pins
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Neved4&repo=asprintf&theme=dark#gh-dark-mode-only)](https://github.com/Neved4/asprintf#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Neved4&repo=asprintf&theme=light#gh-light-mode-only)](https://github.com/Neved4/asprintf#gh-light-mode-only)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Neved4&repo=Neved4&theme=dark#gh-dark-mode-only)](https://github.com/Neved4/Neved4#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Neved4&repo=Neved4&theme=light#gh-light-mode-only)](https://github.com/Neved4/Neved4#gh-light-mode-only)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Neved4&repo=pdksh-perf&theme=dark#gh-dark-mode-only)](https://github.com/Neved4/pdksh-perf#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Neved4&repo=pdksh-perf&theme=light#gh-light-mode-only)](https://github.com/Neved4/pdksh-perf#gh-light-mode-only)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Neved4&repo=.github&theme=dark#gh-dark-mode-only)](https://github.com/Neved4/.github#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Neved4&repo=asprintf&theme=light#gh-light-mode-only)](https://github.com/Neved4/asprintf#gh-light-mode-only)
-
-</details>
+[involves]: https://github.com/search?q=involves%3ANeved4&type=issues
