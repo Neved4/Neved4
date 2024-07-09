@@ -4,7 +4,7 @@
   <tr>
   <td width="50%">
   <a href="https://open.spotify.com/user/motj6ae4rw0e5w88ytbm9xih2?si=0b8713ce88c7404d" rel="nofollow">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&cover_image=true&theme=natemoo-re&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;bar_color=ba3030&amp;bar_color_cover=false" style="max-width: 100%;" height="95%" width=95%">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&cover_image=true&theme=natemoo-re&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;bar_color=ba3030&amp;bar_color_cover=false" style="max-width: 100%;" height="95%" width=95%">
 
   </a>
   </td>
