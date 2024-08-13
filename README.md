@@ -58,6 +58,8 @@
 <details open>
   <summary><h2>📍 Projects</h2></summary>
 
+<!-- START SYNC -->
+
 ### macOS 
 
 - [applist] [<kbd>objective-c</kbd>] [<kbd>swift</kbd>] [<kbd>posix-shell</kbd>]  
@@ -93,6 +95,8 @@
 [tmexcludes]: https://github.com/Neved4/tmexcludes
 [gotwc]: https://github.com/Neved4/gotwc
 [twc]: https://github.com/Neved4/twc
+
+<!-- END SYNC -->
 
 </details>
 
