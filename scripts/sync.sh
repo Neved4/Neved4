@@ -10,7 +10,7 @@ replace() {
      start='<!-- START SYNC -->'
        end='<!-- END SYNC -->'
 
-    sed -n "/$start/,/$end/p" "$input" |
+    curl -s "$input" | sed -n "/$start/,/$end/p" |
         sed -e '1d;$d' >| sync_content.txt
 
     sed -e "/$start/,/$end/{//!d;}" \
