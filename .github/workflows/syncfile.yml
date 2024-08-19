@@ -13,8 +13,8 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
 
-    - name: Run sync.sh
-      run: ./scripts/sync.sh
+    - name: Sync files
+      run: ./scripts/syncfile/py/syncfile.py
 
     - name: Commit and Push Changes
       run: |
