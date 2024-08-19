@@ -59,6 +59,7 @@
   <summary><h2>📍 Projects</h2></summary>
 
 <!-- START SYNC -->
+
 [<kbd>awk</kbd>]: https://github.com/onetrueawk/awk
 [<kbd>c</kbd>]: https://www.iso.org/standard/74528.html
 [<kbd>go</kbd>]: https://go.dev/
@@ -103,6 +104,7 @@ Drop-in replacement for `sw_vers` to retrieve macOS friendly names.
 - [twc] [<kbd>c</kbd>] [<kbd>iso-8601</kbd>] [<kbd>tz-database</kbd>] Displays time zones using the tz database.
 - [gotwc] [<kbd>go</kbd>] [<kbd>iso-8601</kbd>] [<kbd>tz-database</kbd>]
 Go version, display different time zones from the tz database.
+
 <!-- END SYNC -->
 
 </details>
