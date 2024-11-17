@@ -112,7 +112,7 @@ Go version, display different time zones from the tz database.
 <details open>
   <summary><h2>📊 Stats</h2></summary>
 
-[![Metrics](github-metrics.svg)][involves]
+[![Metrics](metrics.svg)][involves]
 
 </details>
 
