@@ -35,9 +35,9 @@ jobs:
           plugin_languages_analysis_timeout: 30
           plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
+          plugin_languages_colors: github, ruby:red
           plugin_languages_indepth: yes
-          plugin_languages_limit: 10
+          plugin_languages_limit: 16
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 150
           plugin_languages_recent_load: 300
