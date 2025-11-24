@@ -51,7 +51,7 @@
 **Learning**: OSCP, Recon, OSINT, Privilege Escalation, Active Directory, Windows & Linux Post-Exploitation  
 **Languages**: C, Go, Python, Bash, PowerShell  
 **Collaborating on**: Security Tooling, Reporting, Methodology & Standards
-**Ask me about**: UNIX Shells, POSIX Systems
+**Ask me about**: UNIX Shells, POSIX Systems  
 **Contact**: <mnrvwl@protonmail.com>
 
 <details>
