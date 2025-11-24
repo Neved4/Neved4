@@ -43,14 +43,16 @@
 
 <!-- ![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge) -->
 
-## 📖 About me
+## 📖 About Me
 
-💠 **Interests**: Offensive Security, Pentesting, Red Teaming & Adversary Emulation  
-📘 **Learning**: OSCP, Recon, OSINT, Privilege Escalation, Active Directory, Windows & Linux Post-Exploitation  
-💻 **Languages**: C, Go, Python, Bash, PowerShell  
-🔗 **Collaborating on**: Security Tooling, Technical Documentation, and Standards Development  
-💬 **Ask me about**: UNIX Shells, POSIX Systems  
-✉️ **Contact**: <mnrvwl@protonmail.com>
+🪬 Call me _**Neveda°**_
+
+**Interests**: Offensive Security, Pentesting, Red Teaming & Adversary Emulation  
+**Learning**: OSCP, Recon, OSINT, Privilege Escalation, Active Directory, Windows & Linux Post-Exploitation  
+**Languages**: C, Go, Python, Bash, PowerShell  
+**Collaborating on**: Security Tooling, Technical Documentation, and Standards Development  
+**Ask me about**: UNIX Shells, POSIX Systems  
+**Contact**: <mnrvwl@protonmail.com>
 
 <details>
   <summary>🛠️ Projects</summary>
