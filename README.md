@@ -57,7 +57,7 @@
 ###### 📟 **Formerly**: [@mnrvwl](https://github.com/onmv) [2020-2023] [@omnv]() [2023]
 
 <details>
-  <summary><h3>🛠️ Projects</h3></summary>
+  <summary><h4>🛠️ Projects</h4></summary>
 
 <!-- START SYNC -->
 [<kbd>ada</kbd>]: https://www.adacore.com/about-ada
@@ -114,7 +114,7 @@
 </details>
 
 <details>
-  <summary><h3>📈 Stats</h3></summary>
+  <summary><h4>📈 Stats</h4></summary>
 
 [![Metrics](metrics.svg)][involves]
 
