@@ -45,19 +45,15 @@
 
 ## 📖 About me
 
-🪬 Call me _**Neveda°**_  
-
-**Interests**: Offensive Security, Pentesting, Red Teaming & Adversary Emulation  
-**Learning**: OSCP, Recon, OSINT, Privilege Escalation, Active Directory, Windows & Linux Post-Exploitation  
-**Languages**: C, Go, Python, Bash, PowerShell  
-**Collaborating on**: Security Tooling, Reporting, Methodology & Standards
-**Ask me about**: UNIX Shells, POSIX Systems  
-**Contact**: <mnrvwl@protonmail.com>
-
-###### 📟 **Formerly**: [@mnrvwl](https://github.com/onmv) [2020-2023] [@omnv]() [2023]
+💠 **Interests**: Offensive Security, Pentesting, Red Teaming & Adversary Emulation  
+📘 **Learning**: OSCP, Recon, OSINT, Privilege Escalation, Active Directory, Windows & Linux Post-Exploitation  
+💻 **Languages**: C, Go, Python, Bash, PowerShell  
+🔗 **Collaborating on**: Security Tooling, Technical Documentation, and Standards Development  
+💬 **Ask me about**: UNIX Shells, POSIX Systems  
+✉️ **Contact**: <mnrvwl@protonmail.com>
 
 <details>
-  <summary><h4>🛠️ Projects</h4></summary>
+  <summary>🛠️ Projects</summary>
 
 <!-- START SYNC -->
 [<kbd>ada</kbd>]: https://www.adacore.com/about-ada
@@ -111,10 +107,9 @@
   Go version, display different time zones from the tz database.
 <!-- END SYNC -->
 
-</details>
-
+</details>  
 <details>
-  <summary><h4>📈 Stats</h4></summary>
+  <summary>📈 Stats</summary>
 
 [![Metrics](metrics.svg)][involves]
 
@@ -126,5 +121,7 @@
 <!--
 ![](https://komarev.com/ghpvc/?username=Neved4)
 -->
+
+###### 📟 **Formerly**: [@mnrvwl](https://github.com/onmv) [2020-2023] [@omnv]() [2023]
 
 [involves]: https://github.com/search?q=involves%3ANeved4&type=issues
