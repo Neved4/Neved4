@@ -45,18 +45,19 @@
 
 ## 📖 About me
 
-⠿ 🪬 Hi, call me _**Neveda°**_  
-⠿ ⚡️ **Interested in**: _documentation, standards and safe programming_  
-⠿ 🌱 **Learning**: _Cybersec, Active Directory, C, Rust, Python, Go, Powershell_  
-⠿ 🚀 **Looking to collaborate on**: _testing, documentation, standards_  
-⠿ 💬 **Ask me anything about**: _UNIX shells, POSIX, LaTeX_  
-⠿ ✉️ **Contact**: <mnrvwl@protonmail.com>  
-⠿ 🪞 **Mirrors**: [@carbon-vault](https://github.com/carbon-vault)  
+🪬 Call me _**Neveda°**_  
 
-###### ⠿ 📟 **Formerly**: [@mnrvwl](https://github.com/onmv) [2020-2023] [@omnv]() [2023]
+💠 **Interests**: Offensive Security, Pentesting, Red Teaming & Adversary Emulation  
+📘 **Learning**: OSCP, Recon, OSINT, Privilege Escalation, Active Directory, Windows & Linux Post-Exploitation  
+💻 **Languages**: C, Go, Python, Bash, PowerShell  
+🔗 **Collaborating on**: Security Tooling, Technical Documentation, and Standards Development  
+💬 **Ask me about**: UNIX Shells, POSIX Systems  
+✉️ **Contact**: <mnrvwl@protonmail.com>
 
-<details open>
-  <summary><h2>📍 Projects</h2></summary>
+###### 📟 **Formerly**: [@mnrvwl](https://github.com/onmv) [2020-2023] [@omnv]() [2023]
+
+<details>
+  <summary>🛠️ Projects</summary>
 
 <!-- START SYNC -->
 [<kbd>ada</kbd>]: https://www.adacore.com/about-ada
@@ -112,8 +113,8 @@
 
 </details>
 
-<details open>
-  <summary><h2>📊 Stats</h2></summary>
+<details>
+  <summary>📊 Stats</summary>
 
 [![Metrics](metrics.svg)][involves]
 
