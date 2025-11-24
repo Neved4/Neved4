@@ -114,7 +114,7 @@
 </details>
 
 <details>
-  <summary>📊 Stats</summary>
+  <summary>📈 Stats</summary>
 
 [![Metrics](metrics.svg)][involves]
 
