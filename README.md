@@ -50,7 +50,7 @@
 **Interests**: Offensive Security, Pentesting, Red Teaming & Adversary Emulation  
 **Learning**: OSCP, Recon, OSINT, Privilege Escalation, Active Directory, Windows & Linux Post-Exploitation  
 **Languages**: C, Go, Python, Bash, PowerShell  
-**Collaborating on**: Security Tooling, Reporting, Methodology & Standards
+**Collaborating on**: Security Tooling, Reporting, Methodology & Standards  
 **Ask me about**: UNIX Shells, POSIX Systems  
 **Contact**: <mnrvwl@protonmail.com>
 
