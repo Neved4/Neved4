@@ -66,9 +66,12 @@
 [<kbd>go</kbd>]: https://go.dev/
 [<kbd>iso-8601</kbd>]: https://www.iso.org/iso-8601-date-and-time-format.html
 [<kbd>java</kbd>]: https://dev.java/
-[<kbd>javascript</kbd>]: https://ecma-international.org/publications-and-standards/standards/ecma-262/
-[<kbd>objective-c</kbd>]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
-[<kbd>posix-shell</kbd>]: https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html
+[<kbd>javascript</kbd>]:
+  https://ecma-international.org/publications-and-standards/standards/ecma-262/
+[<kbd>objective-c</kbd>]:
+  https://developer.apple.com/documentation/objc
+[<kbd>posix-shell</kbd>]:
+  https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html
 [<kbd>python</kbd>]: https://www.python.org
 [<kbd>ruby</kbd>]: https://www.ruby-lang.org/en/
 [<kbd>rust</kbd>]: https://www.rust-lang.org/
@@ -78,7 +81,7 @@
 [<kbd>zig</kbd>]: https://ziglang.org/
 
 [Homebrew]: https://brew.sh/
-[MIT License]: https://opensource.org/license/mit/
+[BSD 2-Clause License]: https://opensource.org/license/bsd-2-clause/
 [Neved4]: https://github.com/Neved4
 [applist]: https://github.com/Neved4/applist
 [apputils]: https://github.com/Neved4/apputils
