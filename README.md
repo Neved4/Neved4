@@ -10,7 +10,7 @@
   </td>
   <td width="50%">
     <p align="center">
-      InfoSec | Risk Analysis | Standards
+      OSCP Student / MS in Cybersecurity
     </p>
     <p align="center">
       <a href="https://tryhackme.com/p/Neveda" rel="nofollow">
