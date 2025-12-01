@@ -10,7 +10,7 @@
   </td>
   <td width="50%">
     <p align="center">
-      OSCP Student / MS in Cybersecurity
+      MS in Cybersecurity / OSCP Student
     </p>
     <p align="center">
       <a href="https://tryhackme.com/p/Neveda" rel="nofollow">
