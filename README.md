@@ -62,6 +62,7 @@
 [<kbd>awk</kbd>]: https://github.com/onetrueawk/awk
 [<kbd>c++</kbd>]: https://isocpp.org
 [<kbd>c</kbd>]: https://www.c-language.org/
+[<kbd>c-sharp</kbd>]: https://learn.microsoft.com/dotnet/csharp/
 [<kbd>fish-shell</kbd>]: https://fishshell.com/
 [<kbd>go</kbd>]: https://go.dev/
 [<kbd>iso-8601</kbd>]: https://www.iso.org/iso-8601-date-and-time-format.html
@@ -77,7 +78,9 @@
 [<kbd>rust</kbd>]: https://www.rust-lang.org/
 [<kbd>swift</kbd>]: https://www.swift.org/
 [<kbd>typescript</kbd>]: https://www.typescriptlang.org/
+[<kbd>font-family</kbd>]: https://en.wikipedia.org/wiki/Typeface
 [<kbd>tz-database</kbd>]: https://www.iana.org/time-zones
+[<kbd>txt</kbd>]: https://en.wikipedia.org/wiki/Plain_text
 [<kbd>zig</kbd>]: https://ziglang.org/
 
 [Homebrew]: https://brew.sh/
@@ -110,6 +113,13 @@
   Displays time zones using the tz database.
 - [gotwc] [<kbd>go</kbd>] [<kbd>iso-8601</kbd>] [<kbd>tz-database</kbd>]
   Go version, display different time zones from the tz database.
+
+### Security 🔐
+
+- [dnspeek] [<kbd>go</kbd>]
+  DNS reconnaissance CLI written in Go.
+- [dnsrecce] [<kbd>go</kbd>]
+  DNS reconnaissance CLI with Google scraping and XML output.
 <!-- END SYNC -->
 
 </details>  
