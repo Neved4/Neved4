@@ -1,14 +1,14 @@
 name: Metrics
 on:
   workflow_dispatch:
-  schedule: [{cron: "0 0 1 * *"}]
+  schedule: [{ cron: "0 0 1 * *" }]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: stalomeow/metrics@projects-v2 # lowlighter/metrics@latest (https://github.com/lowlighter/metrics/issues/1706)
         with:
           user: Neved4
           token: ${{ secrets.METRICS_TOKEN }}
