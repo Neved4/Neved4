@@ -73,6 +73,7 @@
   https://developer.apple.com/documentation/objc
 [<kbd>posix-shell</kbd>]:
   https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html
+[<kbd>php</kbd>]: https://www.php.net/
 [<kbd>python</kbd>]: https://www.python.org
 [<kbd>ruby</kbd>]: https://www.ruby-lang.org/en/
 [<kbd>rust</kbd>]: https://www.rust-lang.org/
