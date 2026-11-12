@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&redirect=true" rel="nofollow">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify now playing" title="Spotify now playing" style="max-width: 100%;" width="95%">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&cover_image=true&theme=natemoo-re&show_offline=true&background_color=444444&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify now playing" title="Spotify now playing" style="max-width: 100%;" width="95%">
 
   </a>
   </td>
