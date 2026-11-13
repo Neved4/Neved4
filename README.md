@@ -46,9 +46,9 @@
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&cover_image=true&theme=spotify-embed&show_offline=false&background_color=444444&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify now playing (Spotify Embed theme)" title="Spotify now playing — Spotify Embed theme" style="max-width: 100%;" width="95%">
       </a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&redirect=true" rel="nofollow">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&cover_image=true&theme=apple&show_offline=false&background_color=444444&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify now playing (Apple theme)" title="Spotify now playing — Apple theme" style="max-width: 100%;" width="95%">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=motj6ae4rw0e5w88ytbm9xih2&cover_image=true&theme=apple&show_offline=false&background_color=444444&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify now playing (Apple theme)" title="Spotify now playing — Apple theme" style="max-width: 100%;" width="25%">
       </a>
     </td>
   </tr>
