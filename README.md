@@ -41,7 +41,7 @@
 
 <!-- ![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge) -->
 
-## 📖 About Me
+## About Me
 
 🪬 Call me _**Neveda°**_
 
@@ -53,7 +53,7 @@
 **Contact**: <mnrvwl@protonmail.com>
 
 <details>
-  <summary>🛠️ Projects</summary>
+  <summary><strong>Projects</strong></summary>
 
 <!-- START SYNC -->
 [<kbd>ada</kbd>]: https://www.adacore.com/about-ada
@@ -125,7 +125,7 @@
 
 </details>  
 <details>
-  <summary>📈 Stats</summary>
+  <summary><strong>Stats</strong></summary>
 
 [![Metrics](metrics.svg)][involves]
 
