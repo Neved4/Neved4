@@ -53,7 +53,7 @@
 **Contact**: <mnrvwl@protonmail.com>
 
 <details>
-  <summary><h4>Projects</h4></summary>
+  <summary><strong>Projects</strong></summary>
 
 <!-- START SYNC -->
 [<kbd>ada</kbd>]: https://www.adacore.com/about-ada
@@ -125,7 +125,7 @@
 
 </details>  
 <details>
-  <summary><h4>Stats</h4></summary>
+  <summary><strong>Stats</strong></summary>
 
 [![Metrics](metrics.svg)][involves]
 
